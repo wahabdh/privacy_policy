@@ -1,0 +1,337 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy - Facebook Auto Poster</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background-color: #f5f5f5;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+
+        header {
+            background-color: #1877f2;
+            color: white;
+            padding: 40px 20px;
+            text-align: center;
+            margin: -20px -20px 40px -20px;
+        }
+
+        h1 {
+            font-size: 2.5em;
+            margin-bottom: 10px;
+        }
+
+        .last-updated {
+            font-size: 0.9em;
+            opacity: 0.9;
+        }
+
+        h2 {
+            color: #1877f2;
+            margin-top: 30px;
+            margin-bottom: 15px;
+            font-size: 1.8em;
+            border-bottom: 2px solid #1877f2;
+            padding-bottom: 10px;
+        }
+
+        h3 {
+            color: #333;
+            margin-top: 20px;
+            margin-bottom: 10px;
+            font-size: 1.3em;
+        }
+
+        p {
+            margin-bottom: 15px;
+            text-align: justify;
+        }
+
+        ul, ol {
+            margin-left: 30px;
+            margin-bottom: 15px;
+        }
+
+        li {
+            margin-bottom: 8px;
+        }
+
+        .contact-info {
+            background-color: #f0f2f5;
+            padding: 20px;
+            border-radius: 8px;
+            margin-top: 30px;
+        }
+
+        .contact-info strong {
+            color: #1877f2;
+        }
+
+        footer {
+            text-align: center;
+            padding: 30px 20px;
+            margin-top: 40px;
+            border-top: 1px solid #ddd;
+            color: #666;
+            font-size: 0.9em;
+        }
+
+        @media (max-width: 768px) {
+            .container {
+                padding: 10px;
+            }
+
+            h1 {
+                font-size: 2em;
+            }
+
+            h2 {
+                font-size: 1.5em;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Privacy Policy</h1>
+            <p class="last-updated">Last Updated: January 16, 2026</p>
+        </header>
+
+        <section>
+            <h2>1. Introduction</h2>
+            <p>Welcome to Facebook Auto Poster ("we," "our," or "us"). We are committed to protecting your privacy and ensuring the security of your personal information. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our Facebook Auto Poster application (the "Application").</p>
+            <p>By using our Application, you agree to the collection and use of information in accordance with this Privacy Policy. If you do not agree with the terms of this Privacy Policy, please do not use the Application.</p>
+        </section>
+
+        <section>
+            <h2>2. Information We Collect</h2>
+            
+            <h3>2.1 Information You Provide</h3>
+            <p>We collect information that you voluntarily provide when using our Application, including:</p>
+            <ul>
+                <li><strong>Account Information:</strong> Name, email address, and login credentials</li>
+                <li><strong>Facebook Account Data:</strong> Information necessary to connect your Facebook account to our Application</li>
+                <li><strong>Content Information:</strong> Posts, images, videos, and other content you choose to schedule or publish through our Application</li>
+                <li><strong>Communication Data:</strong> Any messages, feedback, or support requests you send to us</li>
+            </ul>
+
+            <h3>2.2 Facebook Data</h3>
+            <p>When you connect your Facebook account to our Application, we request access to certain Facebook permissions and data, including:</p>
+            <ul>
+                <li>Basic profile information (name, profile picture, user ID)</li>
+                <li>Permission to publish posts on your behalf</li>
+                <li>Permission to manage your Facebook Pages (if applicable)</li>
+                <li>Access to your Facebook Page insights and analytics (if applicable)</li>
+            </ul>
+            <p>We only request the minimum permissions necessary to provide our services. You can review and revoke these permissions at any time through your Facebook account settings.</p>
+
+            <h3>2.3 Automatically Collected Information</h3>
+            <p>When you use our Application, we may automatically collect certain information, including:</p>
+            <ul>
+                <li><strong>Usage Data:</strong> Information about how you use the Application, including features accessed, posts scheduled, and time spent</li>
+                <li><strong>Device Information:</strong> IP address, browser type, operating system, and device identifiers</li>
+                <li><strong>Log Data:</strong> Server logs, error reports, and performance data</li>
+                <li><strong>Cookies and Similar Technologies:</strong> We use cookies and similar tracking technologies to track activity and maintain sessions</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>3. How We Use Your Information</h2>
+            <p>We use the collected information for the following purposes:</p>
+            <ul>
+                <li><strong>Provide and Maintain Services:</strong> To operate, maintain, and improve our Application's functionality</li>
+                <li><strong>Publish Content:</strong> To schedule and publish posts to your Facebook account or Pages as directed by you</li>
+                <li><strong>Authentication:</strong> To verify your identity and manage your account</li>
+                <li><strong>Communication:</strong> To send you service-related notifications, updates, and support responses</li>
+                <li><strong>Analytics:</strong> To analyze usage patterns and improve user experience</li>
+                <li><strong>Security:</strong> To detect, prevent, and address technical issues, fraud, and security vulnerabilities</li>
+                <li><strong>Legal Compliance:</strong> To comply with legal obligations and enforce our terms of service</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>4. Data Sharing and Disclosure</h2>
+            <p>We do not sell, trade, or rent your personal information to third parties. We may share your information only in the following circumstances:</p>
+
+            <h3>4.1 With Facebook</h3>
+            <p>We share information with Facebook as necessary to provide our services, in accordance with Facebook's Platform Terms and Policies.</p>
+
+            <h3>4.2 Service Providers</h3>
+            <p>We may share information with trusted third-party service providers who assist us in operating our Application, such as:</p>
+            <ul>
+                <li>Cloud hosting providers</li>
+                <li>Analytics services</li>
+                <li>Customer support tools</li>
+            </ul>
+            <p>These service providers are contractually obligated to keep your information confidential and use it only for the purposes we specify.</p>
+
+            <h3>4.3 Legal Requirements</h3>
+            <p>We may disclose your information if required to do so by law or in response to valid requests by public authorities (e.g., court orders, subpoenas, or government agencies).</p>
+
+            <h3>4.4 Business Transfers</h3>
+            <p>In the event of a merger, acquisition, reorganization, or sale of assets, your information may be transferred as part of that transaction. We will notify you of any such change.</p>
+
+            <h3>4.5 With Your Consent</h3>
+            <p>We may share your information with third parties when you explicitly consent to such sharing.</p>
+        </section>
+
+        <section>
+            <h2>5. Data Storage and Security</h2>
+            <p>We implement appropriate technical and organizational security measures to protect your personal information against unauthorized access, alteration, disclosure, or destruction. These measures include:</p>
+            <ul>
+                <li>Encryption of data in transit and at rest</li>
+                <li>Secure authentication protocols</li>
+                <li>Regular security assessments and updates</li>
+                <li>Access controls and employee training</li>
+                <li>Secure data storage infrastructure</li>
+            </ul>
+            <p>However, no method of transmission over the internet or electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.</p>
+            <p>Your data is stored on secure servers and retained only for as long as necessary to provide our services or as required by law.</p>
+        </section>
+
+        <section>
+            <h2>6. Your Data Rights</h2>
+            <p>You have the following rights regarding your personal information:</p>
+            <ul>
+                <li><strong>Access:</strong> You can request access to the personal information we hold about you</li>
+                <li><strong>Correction:</strong> You can request correction of inaccurate or incomplete information</li>
+                <li><strong>Deletion:</strong> You can request deletion of your personal information, subject to legal obligations</li>
+                <li><strong>Data Portability:</strong> You can request a copy of your data in a structured, machine-readable format</li>
+                <li><strong>Withdrawal of Consent:</strong> You can withdraw your consent for data processing at any time</li>
+                <li><strong>Objection:</strong> You can object to certain processing of your personal information</li>
+                <li><strong>Revoke Facebook Permissions:</strong> You can revoke our Application's access to your Facebook account at any time through Facebook settings</li>
+            </ul>
+            <p>To exercise any of these rights, please contact us using the information provided in the Contact section below.</p>
+        </section>
+
+        <section>
+            <h2>7. Data Retention</h2>
+            <p>We retain your personal information only for as long as necessary to fulfill the purposes outlined in this Privacy Policy, unless a longer retention period is required or permitted by law. When we no longer need your information, we will securely delete or anonymize it.</p>
+            <p>Specific retention periods include:</p>
+            <ul>
+                <li><strong>Account Data:</strong> Retained while your account is active and for a reasonable period after account deletion</li>
+                <li><strong>Scheduled Posts:</strong> Retained until published or deleted by you</li>
+                <li><strong>Usage Logs:</strong> Generally retained for up to 90 days for troubleshooting and analytics</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>8. Third-Party Links and Services</h2>
+            <p>Our Application may contain links to third-party websites, services, or integrations that are not operated by us. We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services. We encourage you to review the privacy policies of any third-party services you access.</p>
+        </section>
+
+        <section>
+            <h2>9. Children's Privacy</h2>
+            <p>Our Application is not intended for use by children under the age of 13 (or the minimum age required in your jurisdiction). We do not knowingly collect personal information from children. If you are a parent or guardian and believe that your child has provided us with personal information, please contact us immediately, and we will take steps to delete such information from our systems.</p>
+        </section>
+
+        <section>
+            <h2>10. International Data Transfers</h2>
+            <p>Your information may be transferred to and maintained on computers located outside of your state, province, country, or other governmental jurisdiction where data protection laws may differ from those in your jurisdiction.</p>
+            <p>If you are located outside the United States and choose to provide information to us, please note that we transfer the data to the United States and process it there. By using our Application, you consent to this transfer and processing.</p>
+        </section>
+
+        <section>
+            <h2>11. Cookies and Tracking Technologies</h2>
+            <p>We use cookies and similar tracking technologies to track activity on our Application and store certain information. Cookies are small data files stored on your device. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Application.</p>
+            <p>Types of cookies we use:</p>
+            <ul>
+                <li><strong>Essential Cookies:</strong> Required for the Application to function properly</li>
+                <li><strong>Functional Cookies:</strong> Remember your preferences and settings</li>
+                <li><strong>Analytics Cookies:</strong> Help us understand how users interact with the Application</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>12. California Privacy Rights (CCPA)</h2>
+            <p>If you are a California resident, you have specific rights regarding your personal information under the California Consumer Privacy Act (CCPA):</p>
+            <ul>
+                <li>Right to know what personal information we collect, use, disclose, and sell</li>
+                <li>Right to request deletion of your personal information</li>
+                <li>Right to opt-out of the sale of personal information (we do not sell personal information)</li>
+                <li>Right to non-discrimination for exercising your privacy rights</li>
+            </ul>
+            <p>To exercise these rights, please contact us using the information provided below.</p>
+        </section>
+
+        <section>
+            <h2>13. European Privacy Rights (GDPR)</h2>
+            <p>If you are located in the European Economic Area (EEA), you have certain rights under the General Data Protection Regulation (GDPR), including:</p>
+            <ul>
+                <li>Right to access your personal data</li>
+                <li>Right to rectification of inaccurate data</li>
+                <li>Right to erasure ("right to be forgotten")</li>
+                <li>Right to restrict processing</li>
+                <li>Right to data portability</li>
+                <li>Right to object to processing</li>
+                <li>Right to withdraw consent</li>
+                <li>Right to lodge a complaint with a supervisory authority</li>
+            </ul>
+            <p>Our legal basis for processing your personal data includes: consent, contract performance, legal obligations, and legitimate interests.</p>
+        </section>
+
+        <section>
+            <h2>14. Facebook Platform Compliance</h2>
+            <p>Our Application complies with Facebook's Platform Terms and Developer Policies. We:</p>
+            <ul>
+                <li>Only request permissions necessary to provide our services</li>
+                <li>Do not use Facebook data for any purpose other than providing our services</li>
+                <li>Allow users to revoke permissions through Facebook at any time</li>
+                <li>Delete data when requested by users or required by Facebook</li>
+                <li>Comply with Facebook's data deletion requirements</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>15. Changes to This Privacy Policy</h2>
+            <p>We may update our Privacy Policy from time to time to reflect changes in our practices, technology, legal requirements, or other factors. We will notify you of any material changes by:</p>
+            <ul>
+                <li>Posting the new Privacy Policy on this page</li>
+                <li>Updating the "Last Updated" date at the top of this Privacy Policy</li>
+                <li>Sending you an email notification (if you have provided your email address)</li>
+            </ul>
+            <p>We encourage you to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page. Your continued use of the Application after any modifications indicates your acceptance of the updated Privacy Policy.</p>
+        </section>
+
+        <section>
+            <h2>16. Data Protection Officer</h2>
+            <p>If you have any questions about our data protection practices or this Privacy Policy, you may contact our Data Protection Officer at the email address provided in the Contact section below.</p>
+        </section>
+
+        <section>
+            <h2>17. Contact Us</h2>
+            <div class="contact-info">
+                <p>If you have any questions, concerns, or requests regarding this Privacy Policy or our data practices, please contact us:</p>
+                <p><strong>Email:</strong> privacy@yourdomain.com</p>
+                <p><strong>Website:</strong> https://yourdomain.com</p>
+                <p><strong>Address:</strong> [Your Company Address]</p>
+                <p style="margin-top: 15px; font-size: 0.9em; color: #666;">We will respond to your inquiry within 30 days of receipt.</p>
+            </div>
+        </section>
+
+        <footer>
+            <p>&copy; 2026 Facebook Auto Poster. All rights reserved.</p>
+            <p>This Privacy Policy is effective as of January 16, 2026</p>
+        </footer>
+    </div>
+</body>
+</html>
